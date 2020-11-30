@@ -2,6 +2,8 @@
 
 Hi my name is Kes and I'm learning to code with Leeds Trinity University
 
+![Image](https://images.unsplash.com/photo-1606736429001-4fc30c87b787?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzMnx8fGVufDB8fHw%3D&auto=format&fit=crop&w=500&q=60)
+
 You can use the [editor on GitHub](https://github.com/Kes-trel/jekyll-demo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
